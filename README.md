@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋Hi, I'm Sakshi Bharambe!
+
+## 👩‍💻 About Me
+- 🎓  I'm a computer engineering student  @ SDSU.
+- My current interests are:
+  -  🔐 **Cybersecurity**
+  -  ⚙️ **Embedded Programming**
+-  🌱 I'm a Tech Fellow @ CodePath.
 
 <!--
 **sakshibharam/sakshibharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
